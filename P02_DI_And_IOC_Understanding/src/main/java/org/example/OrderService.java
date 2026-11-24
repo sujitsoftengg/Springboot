@@ -4,10 +4,14 @@ import org.example.Notification.EmailNotification;
 import org.example.Notification.NotificationService;
 
 public class OrderService {
-    NotificationService notification;
+    private NotificationService notification;
 
     public OrderService(NotificationService notification){
             this.notification = notification;
+    }
+
+    public OrderService(){
+
     }
 
 
@@ -16,6 +20,7 @@ public class OrderService {
         notification.sendNotification();
     }
 
-
-
+    public void setNotification(NotificationService notification) {
+        this.notification = notification;
+    }
 }

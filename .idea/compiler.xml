@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="P02_DI_And_IOC_Understanding" />
+        <module name="P03_SpringCoreDemo" />
       </profile>
     </annotationProcessing>
   </component>
