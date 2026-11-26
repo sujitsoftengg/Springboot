@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/P02_DI_And_IOC_Understanding/pom.xml" />
         <option value="$PROJECT_DIR$/SpringCoreDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/P04_CircularDependencyDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/P01_BasicsUnderstanding/SpringProject1/pom.xml" />
+        <option value="$PROJECT_DIR$/P03_SpringCoreDemo/pom.xml" />
       </list>
     </option>
   </component>
