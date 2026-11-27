@@ -7,11 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="P04_CircularDependencyDemo" />
+        <module name="P05_BeanScopeDemo" />
         <module name="P02_DI_And_IOC_Understanding" />
         <module name="P03_SpringCoreDemo" />
+        <module name="P06_BeenLifeCycleDemo" />
         <module name="demo" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P06_BeenLifeCycle" target="25" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

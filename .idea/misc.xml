@@ -9,7 +9,15 @@
         <option value="$PROJECT_DIR$/P04_CircularDependencyDemo/pom.xml" />
         <option value="$PROJECT_DIR$/P01_BasicsUnderstanding/SpringProject1/pom.xml" />
         <option value="$PROJECT_DIR$/P03_SpringCoreDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/P05_BeanScopeDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/P06_BeenLifeCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/P06_BeenLifeCycleDemo/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/P06_BeenLifeCycle/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_25" project-jdk-name="25" project-jdk-type="JavaSDK">

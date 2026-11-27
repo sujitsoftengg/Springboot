@@ -8,5 +8,11 @@
     <file url="file://$PROJECT_DIR$/P03_SpringCoreDemo/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P04_CircularDependencyDemo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/P04_CircularDependencyDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P05_BeanScopeDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P05_BeanScopeDemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P06_BeenLifeCycle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P06_BeenLifeCycle/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P06_BeenLifeCycleDemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/P06_BeenLifeCycleDemo/src/main/resources" charset="UTF-8" />
   </component>
 </project>
